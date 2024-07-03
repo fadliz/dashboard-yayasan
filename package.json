@@ -12,5 +12,22 @@
     },
     "dependencies": {
         "laravel-mix": "^6.0.49"
-    }
+    },
+    "name": "dashboard-yayasan",
+    "version": "1.0.0",
+    "description": "Simple web app for yayasan LDII jatiasih",
+    "main": "vite.config.js",
+    "directories": {
+        "test": "tests"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fadliz/dashboard-yayasn.git"
+    },
+    "author": "Fadli Zuhri",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/fadliz/dashboard-yayasn/issues"
+    },
+    "homepage": "https://github.com/fadliz/dashboard-yayasn#readme"
 }
